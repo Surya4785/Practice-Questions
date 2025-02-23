@@ -1,4 +1,4 @@
-//Print a single digit number and print a rectangular form of 4 columns and 6 rows
+//Print a single digit number and print a rectangular form of 4 columns and 6 rows.
 #include <iostream> 
 
 using namespace std; 
