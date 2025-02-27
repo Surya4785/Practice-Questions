@@ -1,3 +1,4 @@
+# longest common prefix.
 def answer(strs):
 if not strs:
     return ""
