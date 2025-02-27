@@ -19,5 +19,5 @@ class Solution {
 	     {
 	    	 System.out.println("Not Palindrome");
 	     }
-  }
+      }
 }
